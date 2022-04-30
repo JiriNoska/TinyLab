@@ -6,19 +6,19 @@ Podklady pro výuku se dělí na 13 aktivit, kdy každá z těchto aktivit je ko
 
 ### Struktura aktivit
 
-1. [Seznámení se s výukovám kitem TinyLab](https://github.com/JiriNoska/TinyLab/aktivita1)
-2. [LED diody](https://github.com/JiriNoska/TinyLab/aktivita2)
-3. [Poternciometr](https://github.com/JiriNoska/TinyLab/aktivita3)
-4. [Tlačítka](https://github.com/JiriNoska/TinyLab/aktivita4)
-5. [Relé](https://github.com/JiriNoska/TinyLab/aktivita5)
-6. [Piezoelektrický měnič](https://github.com/JiriNoska/TinyLab/aktivita6)
-7. [Fotorezistor](https://github.com/JiriNoska/TinyLab/aktivita7)
-8. [Teplotní čidlo](https://github.com/JiriNoska/TinyLab/aktivita8)
-9. [Rotační enkodér](https://github.com/JiriNoska/TinyLab/aktivita9)
-10. [7segmentový displej](https://github.com/JiriNoska/TinyLab/aktivita10)
-11. [LCD displej](https://github.com/JiriNoska/TinyLab/aktivita11)
-12. [Funkce, cykly](https://github.com/JiriNoska/TinyLab/aktivita12)
-13. [Multitasking](https://github.com/JiriNoska/TinyLab/aktivita13)
+1. [Seznámení se s výukovám kitem TinyLab](https://github.com/JiriNoska/TinyLab/tree/main/aktivita1/)
+2. [LED diody](https://github.com/JiriNoska/TinyLab/tree/main/aktivita2/)
+3. [Poternciometr](https://github.com/JiriNoska/TinyLab/tree/main/aktivita3/)
+4. [Tlačítka](https://github.com/JiriNoska/TinyLab/tree/main/aktivita4/)
+5. [Relé](https://github.com/JiriNoska/TinyLab/tree/main/aktivita5/)
+6. [Piezoelektrický měnič](https://github.com/JiriNoska/TinyLab/tree/main/aktivita6/)
+7. [Fotorezistor](https://github.com/JiriNoska/TinyLab/tree/main/aktivita7/)
+8. [Teplotní čidlo](https://github.com/JiriNoska/TinyLab/tree/main/aktivita8/)
+9. [Rotační enkodér](https://github.com/JiriNoska/TinyLab/tree/main/aktivita9/)
+10. [7segmentový displej](https://github.com/JiriNoska/TinyLab/tree/main/aktivita10/)
+11. [LCD displej](https://github.com/JiriNoska/TinyLab/tree/main/aktivita11/)
+12. [Funkce, cykly](https://github.com/JiriNoska/TinyLab/tree/main/aktivita12/)
+13. [Multitasking](https://github.com/JiriNoska/TinyLab/tree/main/aktivita13/)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
