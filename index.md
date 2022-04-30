@@ -15,9 +15,9 @@ Podklady pro výuku se dělí na 13 aktivit, kdy každá z těchto aktivit je ko
 7. [Fotorezistor](https://github.com/JiriNoska/TinyLab/aktivita7)
 8. [Teplotní čidlo](https://github.com/JiriNoska/TinyLab/aktivita8)
 9. [Rotační enkodér](https://github.com/JiriNoska/TinyLab/aktivita9)
-10.[7segmentový displej](https://github.com/JiriNoska/TinyLab/aktivita10)
-11.[LCD displej](https://github.com/JiriNoska/TinyLab/aktivita11)
-12.[Funkce, cykly](https://github.com/JiriNoska/TinyLab/aktivita12)
+10. [7segmentový displej](https://github.com/JiriNoska/TinyLab/aktivita10)
+11. [LCD displej](https://github.com/JiriNoska/TinyLab/aktivita11)
+12. [Funkce, cykly](https://github.com/JiriNoska/TinyLab/aktivita12)
 13. [Multitasking](https://github.com/JiriNoska/TinyLab/aktivita13)
 
 
