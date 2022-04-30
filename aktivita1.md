@@ -2,7 +2,7 @@
 
 [Složka s materiály](https://github.com/JiriNoska/TinyLab/tree/main/aktivita1/)
 
-[Download](https://github.com/JiriNoska/TinyLab/tree/main/zipball/aktivita1/)
+[Stažení složky ve formátu *.zip](https://github.com/JiriNoska/tinylab/zipball/main/aktivita1/)
 
 ### Jednotlivé materiály ke stažení
 
