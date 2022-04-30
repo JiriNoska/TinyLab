@@ -2,6 +2,8 @@
 
 Materiály vznikly v rámci diplomové práce a jsou volně dostupné na [github.com/jirinoska/tinylab](https://github.com/jirinoska/tinylab).
 
+Stažení celé složky s materiály ve formátu *.zip: [zde](https://github.com/JiriNoska/tinylab/zipball/main/)
+
 Podklady pro výuku se dělí na 13 aktivit, kdy každá z těchto aktivit je koncipována na jednu vyučovací hodinu. V rámci každé aktivity je několik úloh, kdy se žáci budou učit vytvářet programy ve výukovém kitu TinyLab.
 
 ### Struktura aktivit
