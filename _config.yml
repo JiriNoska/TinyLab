@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
-show-downloads: true
+show-download: true
+ title: some title
+ author: bobby-tables
