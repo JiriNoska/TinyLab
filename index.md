@@ -1,24 +1,24 @@
 ## Využití výukového kitu TinyLab v přípravě budoucích učitelů
 
-Materiály vznikly v rámci diplomové práce a jsou volně dostupné na [github.com/JiriNoska/TinyLab](https://github.com/JiriNoska/TinyLab).
+Materiály vznikly v rámci diplomové práce a jsou volně dostupné na [github.com/JiriNoska/TinyLab](https://github.com/JiriNoska/tinylab).
 
 Podklady pro výuku se dělí na 13 aktivit, kdy každá z těchto aktivit je koncipována na jednu vyučovací hodinu. V rámci každé aktivity je několik úloh, kdy se žáci budou učit vytvářet programy ve výukovém kitu TinyLab.
 
 ### Struktura aktivit
 
-1. [Seznámení se s výukovám kitem TinyLab](https://github.com/JiriNoska/TinyLab/tree/main/aktivita1/)
-2. [LED diody](https://github.com/JiriNoska/TinyLab/tree/main/aktivita2/)
-3. [Poternciometr](https://github.com/JiriNoska/TinyLab/tree/main/aktivita3/)
-4. [Tlačítka](https://github.com/JiriNoska/TinyLab/tree/main/aktivita4/)
-5. [Relé](https://github.com/JiriNoska/TinyLab/tree/main/aktivita5/)
-6. [Piezoelektrický měnič](https://github.com/JiriNoska/TinyLab/tree/main/aktivita6/)
-7. [Fotorezistor](https://github.com/JiriNoska/TinyLab/tree/main/aktivita7/)
-8. [Teplotní čidlo](https://github.com/JiriNoska/TinyLab/tree/main/aktivita8/)
-9. [Rotační enkodér](https://github.com/JiriNoska/TinyLab/tree/main/aktivita9/)
-10. [7segmentový displej](https://github.com/JiriNoska/TinyLab/tree/main/aktivita10/)
-11. [LCD displej](https://github.com/JiriNoska/TinyLab/tree/main/aktivita11/)
-12. [Funkce, cykly](https://github.com/JiriNoska/TinyLab/tree/main/aktivita12/)
-13. [Multitasking](https://github.com/JiriNoska/TinyLab/tree/main/aktivita13/)
+1. [Seznámení se s výukovám kitem TinyLab](https://github.com/JiriNoska/tinylab/tree/main/aktivita1/)
+2. [LED diody](https://github.com/JiriNoska/tinylab/tree/main/aktivita2/)
+3. [Poternciometr](https://github.com/JiriNoska/tinylab/tree/main/aktivita3/)
+4. [Tlačítka](https://github.com/JiriNoska/tinylab/tree/main/aktivita4/)
+5. [Relé](https://github.com/JiriNoska/tinylab/tree/main/aktivita5/)
+6. [Piezoelektrický měnič](https://github.com/JiriNoska/tinylab/tree/main/aktivita6/)
+7. [Fotorezistor](https://github.com/JiriNoska/tinylab/tree/main/aktivita7/)
+8. [Teplotní čidlo](https://github.com/JiriNoska/tinylab/tree/main/aktivita8/)
+9. [Rotační enkodér](https://github.com/JiriNoska/tinylab/tree/main/aktivita9/)
+10. [7segmentový displej](https://github.com/JiriNoska/tinylab/tree/main/aktivita10/)
+11. [LCD displej](https://github.com/JiriNoska/tinylab/tree/main/aktivita11/)
+12. [Funkce, cykly](https://github.com/JiriNoska/tinylab/tree/main/aktivita12/)
+13. [Multitasking](https://github.com/JiriNoska/tinylab/tree/main/aktivita13/)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
