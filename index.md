@@ -8,7 +8,7 @@ Podklady pro výuku se dělí na 13 aktivit, kdy každá z těchto aktivit je ko
 
 1. [Seznámení se s výukovám kitem TinyLab](https://jirinoska.github.io/tinylab/aktivita1)
 2. [LED diody](https://jirinoska.github.io/tinylab/aktivita2)
-3. [Poternciometr](https://jirinoska.github.io/tinylab/aktivita3)
+3. [Potenciometr](https://jirinoska.github.io/tinylab/aktivita3)
 4. [Tlačítka](https://jirinoska.github.io/tinylab/aktivita4)
 5. [Relé](https://jirinoska.github.io/tinylab/aktivita5)
 6. [Piezoelektrický měnič](https://jirinoska.github.io/tinylab/aktivita6)
