@@ -1,7 +1,7 @@
-# Využití výukového kitu TinyLab v přípravě budoucích učitelů
-## Seznámení se s výukovým kitem TinyLab
+## Aktivita 1 - Seznámení se s výukovým kitem TinyLab
 
-[Materiály](https://github.com/JiriNoska/TinyLab/tree/main/aktivita1/)
+[Složka s materiály](https://github.com/JiriNoska/TinyLab/tree/main/aktivita1/)
+[Download](https://github.com/JiriNoska/TinyLab/tree/main/zipball/aktivita1/)
 
 ### Jednotlivé materiály ke stažení
 
