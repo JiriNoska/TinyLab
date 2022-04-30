@@ -6,7 +6,7 @@ Podklady pro výuku se dělí na 13 aktivit, kdy každá z těchto aktivit je ko
 
 ### Struktura aktivit
 
-1. [Seznámení se s výukovám kitem TinyLab](https://github.com/JiriNoska/tinylab/gh-pages/aktivita1.md)
+1. [Seznámení se s výukovám kitem TinyLab](https://jirinoska.github.io/tinylab/aktivita1)
 2. [LED diody](https://github.com/JiriNoska/tinylab/tree/main/aktivita2/)
 3. [Poternciometr](https://github.com/JiriNoska/tinylab/tree/main/aktivita3/)
 4. [Tlačítka](https://github.com/JiriNoska/tinylab/tree/main/aktivita4/)
