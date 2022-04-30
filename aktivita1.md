@@ -1,6 +1,7 @@
 ## Aktivita 1 - Seznámení se s výukovým kitem TinyLab
 
 [Složka s materiály](https://github.com/JiriNoska/TinyLab/tree/main/aktivita1/)
+
 [Download](https://github.com/JiriNoska/TinyLab/tree/main/zipball/aktivita1/)
 
 ### Jednotlivé materiály ke stažení
