@@ -5,6 +5,6 @@ navigation:
 - text: Introduction
   internal: true
   url: ./
-zip_url: "https://github.com/JiriNoska/tinylab/zipball/main"
+zip_url: https://github.com/JiriNoska/tinylab/zipball/main/
 exclude:
   - README.md
