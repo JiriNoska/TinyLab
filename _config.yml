@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 show_downloads: true 
 zip_url": "https://github.com/JiriNoska/tinylab/zipball/main"
+exclude:
+  - README.md
