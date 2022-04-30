@@ -17,4 +17,4 @@
 2. [Úloha 1.3](https://github.com/JiriNoska/tinylab/blob/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/aktivita_1.3.ino)
 
 
-### [<= Domů](https://jirinoska.github.io/tinylab/)
+### [Úvodní strana](https://jirinoska.github.io/tinylab/)
