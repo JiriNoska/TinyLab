@@ -1,16 +1,36 @@
-# Využití výukového kitu TinyLab v přípravě budoucích učitelů
-## Seznámení se s výukovým kitem TinyLab
+## Aktivita 2 - LED diody
 
-[Materiály](https://github.com/JiriNoska/TinyLab/tree/main/aktivita1/)
+[Složka s materiály](https://github.com/JiriNoska/tinylab/tree/main/aktivita02/)
+
+[Stažení složky ve formátu *.zip](https://github.com/JiriNoska/tinylab/zipball/main/aktivita02/)
+
+### Metodika pro pedagogy
+
+
+1. [Hodina 2 - metodika (docx)](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/Hodina%202_metodika.docx)
+2. [Hodina 2 - metodika (pdf)](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/Hodina%202_metodika.pdf)
 
 ### Jednotlivé materiály ke stažení
 
-1. [Úloha 1.1 - pracovní list (docx)](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/%C3%9Aloha%201.1%20-%20Pracovn%C3%AD%20list.docx)
-2. [Úloha 1.1 - pracovní list (pdf)](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/%C3%9Aloha%201.1%20-%20Pracovn%C3%AD%20list.pdf)
-3. [Komponenty výukového kitu TinyLab](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/Komponenty%20v%C3%BDukov%C3%A9ho%20kitu%20TinyLab.docx)
-4. [Základní deska výukového kitu TiynLab](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/z%C3%A1kladn%C3%AD%20deska%20TinyLab.png)
+1. [Aktivita 2.1 - pracovni_list (docx)](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/Aktivita%202.1_pracovni_list.docx)
+2. [Aktivita 2.1 - pracovni_list (pdf)](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/Aktivita%202.1_pracovni_list.pdf)
+3. [Aktivita 2.2 - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/Aktivita%202.2_zadani.docx)
+4. [Aktivita 2.2 - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/Aktivita%202.2_zadani.pdf)
+5. [Aktivita 2.3 - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/Aktivita%202.3_semafor_pomucka.docx)
+6. [Aktivita 2.3 - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/Aktivita%202.3_semafor_pomucka.pdf)
+7. [Aktivita 2.4 - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/Aktivita%202.4_had_pomucka.docx)
+8. [Aktivita 2.4 - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/Aktivita%202.4_had_pomucka.pdf)
+9. [Aktivita 2.5 - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/Aktivita%202.5_overeni_znalosti.pdf)
+
 
 ### Seznam programů pro TinyLab
 
-1. [Úloha 1.2](https://github.com/JiriNoska/tinylab/blob/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/aktivita_1.2.ino)
-2. [Úloha 1.3](https://github.com/JiriNoska/tinylab/blob/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/aktivita_1.3.ino)
+1. [Aktivita 2.2](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/aktivita_2.2.ino)
+2. [Aktivita 2.3](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/aktivita_2.3.ino)
+3. [Aktivita 2.4](https://github.com/JiriNoska/tinylab/blob/534785d1b424bb58f10d4132316421e0f3edb8a7/aktivita02/aktivita_2.4.ino)
+
+
+### [Úvodní strana](https://jirinoska.github.io/tinylab/)
+
+test
+
