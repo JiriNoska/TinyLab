@@ -31,6 +31,3 @@
 
 
 ### [Úvodní strana](https://jirinoska.github.io/tinylab/)
-
-test
-
