@@ -6,8 +6,9 @@
 
 ### Metodika pro pedagogy
 
-1. [Hodina 1 - metodika (docx)](https://github.com/JiriNoska/tinylab/blob/30ee5bb40587c66f6a50e7c507fcb1e0ba409a6b/aktivita01/Hodina%201_metodika.docx)
-2. [Hodina 1 - metodika (pdf)](https://github.com/JiriNoska/tinylab/blob/30ee5bb40587c66f6a50e7c507fcb1e0ba409a6b/aktivita01/Hodina%201_metodika.pdf)
+
+1. [Hodina 1 - metodika (docx)](https://github.com/JiriNoska/tinylab/blob/4abd7d9b7d8892685b2bb9aba30d133ced9d4f6a/aktivita01/Hodina%201_metodika.docx)
+2. [Hodina 1 - metodika (pdf)](https://github.com/JiriNoska/tinylab/blob/4abd7d9b7d8892685b2bb9aba30d133ced9d4f6a/aktivita01/Hodina%201_metodika.pdf)
 
 ### Jednotlivé materiály ke stažení
 
