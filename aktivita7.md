@@ -1,16 +1,27 @@
-# Využití výukového kitu TinyLab v přípravě budoucích učitelů
-## Seznámení se s výukovým kitem TinyLab
 
-[Materiály](https://github.com/JiriNoska/TinyLab/tree/main/aktivita1/)
+## Aktivita 7 - Rotační enkodér
+
+[Složka s materiály](https://github.com/JiriNoska/tinylab/tree/main/aktivita07/)
+
+[Stažení složky ve formátu *.zip](https://github.com/JiriNoska/tinylab/zipball/main/aktivita07/)
+
+### Metodika pro pedagogy
+
+
+1. [Hodina 7 - Rotační enkodér - metodika (docx)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita07/Hodina%207_metodika.docx)
+2. [Hodina 7 - Rotační enkodér -metodika (pdf)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita07/Hodina%207_metodika.pdf)
 
 ### Jednotlivé materiály ke stažení
 
-1. [Úloha 1.1 - pracovní list (docx)](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/%C3%9Aloha%201.1%20-%20Pracovn%C3%AD%20list.docx)
-2. [Úloha 1.1 - pracovní list (pdf)](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/%C3%9Aloha%201.1%20-%20Pracovn%C3%AD%20list.pdf)
-3. [Komponenty výukového kitu TinyLab](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/Komponenty%20v%C3%BDukov%C3%A9ho%20kitu%20TinyLab.docx)
-4. [Základní deska výukového kitu TiynLab](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/z%C3%A1kladn%C3%AD%20deska%20TinyLab.png)
+1. [Aktivita 7.1 - Princip rotačního enkodéru - pracovni_list (docx)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita07/Aktivita%207.1_pracovni_list.docx)
+2. [Aktivita 7.1 - Princip rotačního enkodéru - pracovni_list (pdf)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita07/Aktivita%207.1_pracovni_list.pdf)
+3. [Aktivita 7.2 - Rotační enkodér - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita07/Aktivita%207.2_zadani.docx)
+4. [Aktivita 7.2 - Rotačnbí enkodér - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita07/Aktivita%207.2_zadani.pdf)
+
 
 ### Seznam programů pro TinyLab
 
-1. [Úloha 1.2](https://github.com/JiriNoska/tinylab/blob/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/aktivita_1.2.ino)
-2. [Úloha 1.3](https://github.com/JiriNoska/tinylab/blob/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/aktivita_1.3.ino)
+1. [Aktivita 7.2](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita07/aktivita_7.2.ino)
+
+
+### [Úvodní strana](https://jirinoska.github.io/tinylab/)
