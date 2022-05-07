@@ -9,7 +9,7 @@
 
 
 1. [Hodina 6 - Fotorezistor, teplotní čidlo - metodika (docx)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita06/Hodina%206_metodika.docx)
-2. [Hodina 6 - Fotorezistor, teplotní čidlo -metodika (pdf)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita06/Hodina%206_metodika.docx)
+2. [Hodina 6 - Fotorezistor, teplotní čidlo -metodika (pdf)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita06/Hodina%206_metodika.pdf)
 
 ### Jednotlivé materiály ke stažení
 
