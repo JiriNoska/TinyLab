@@ -8,8 +8,8 @@
 ### Metodika pro pedagogy
 
 
-1. [Hodina 4 - Tlačítka - metodika (docx)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita03/Hodina%204_metodika.docx)
-2. [Hodina 4 - Tlačítka -metodika (pdf)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita03/Hodina%204_metodika.pdf)
+1. [Hodina 4 - Tlačítka - metodika (docx)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita04/Hodina%204_metodika.docx)
+2. [Hodina 4 - Tlačítka -metodika (pdf)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita04/Hodina%204_metodika.pdf)
 
 ### Jednotlivé materiály ke stažení
 
