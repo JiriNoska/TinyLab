@@ -18,6 +18,6 @@ Podklady pro výuku se dělí na 13 aktivit, kdy každá z těchto aktivit je ko
 8. [Displeje](https://jirinoska.github.io/tinylab/aktivita8)
 9. [...](https://jirinoska.github.io/tinylab/aktivita9)
 10. [...](https://jirinoska.github.io/tinylab/aktivita10)
-11. [...j](https://jirinoska.github.io/tinylab/aktivita11)
+11. [...](https://jirinoska.github.io/tinylab/aktivita11)
 12. [...](https://jirinoska.github.io/tinylab/aktivita12)
 13. [...](https://jirinoska.github.io/tinylab/aktivita13)
