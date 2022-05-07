@@ -16,7 +16,7 @@
 1. [Aktivita 7.1 - Princip rotačního enkodéru - pracovni_list (docx)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita07/Aktivita%207.1_pracovni_list.docx)
 2. [Aktivita 7.1 - Princip rotačního enkodéru - pracovni_list (pdf)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita07/Aktivita%207.1_pracovni_list.pdf)
 3. [Aktivita 7.2 - Rotační enkodér - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita07/Aktivita%207.2_zadani.docx)
-4. [Aktivita 7.2 - Rotačnbí enkodér - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita07/Aktivita%207.2_zadani.pdf)
+4. [Aktivita 7.2 - Rotační enkodér - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita07/Aktivita%207.2_zadani.pdf)
 
 
 ### Seznam programů pro TinyLab
