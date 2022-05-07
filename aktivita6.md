@@ -13,9 +13,9 @@
 
 ### Jednotlivé materiály ke stažení
 
-1. [Aktivita 6.1 - Rozsvěcování LED diod v závislosti na osvětlení - pracovni_list (docx)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita06/Aktivita%206.1_zadani.docx)
-2. [Aktivita 6.1 - Rozsvěcování LED diod v závislosti na osvětlení - pracovni_list (pdf)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita06/Aktivita%206.1_zadani.pdf)
-3. [Aktivita 6.2 - Výpis teploty ve stupních Celsia, Fahrenheita a Kelvinak - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita06/Aktivita%206.2_zadani.docx)
+1. [Aktivita 6.1 - Rozsvěcování LED diod v závislosti na osvětlení - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita06/Aktivita%206.1_zadani.docx)
+2. [Aktivita 6.1 - Rozsvěcování LED diod v závislosti na osvětlení - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita06/Aktivita%206.1_zadani.pdf)
+3. [Aktivita 6.2 - Výpis teploty ve stupních Celsia, Fahrenheita a Kelvina - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita06/Aktivita%206.2_zadani.docx)
 4. [Aktivita 6.2 - Výpis teploty ve stupních Celsia, Fahrenheita a Kelvina - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/ecb12907b715edd6e901a3cfb552295377352061/aktivita06/Aktivita%206.2_zadani.pdf)
 
 
