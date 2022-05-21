@@ -14,7 +14,7 @@
 ### Jednotlivé materiály ke stažení
 
 1. [Aktivita 10.1 - Předvodník z desítkové soustavy - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita10/Aktivita%2010.1_zadani.docx)
-3. [Aktivita 10.1 - Předvodník z desítkové soustavy - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita10/Aktivita%2010.1_pracovni.pdf)
+3. [Aktivita 10.1 - Předvodník z desítkové soustavy - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita10/Aktivita%2010.1_zadani.pdf)
 
 
 ### Seznam programů pro TinyLab
