@@ -18,6 +18,8 @@
 3. [Aktivita 7.2 - Rotační enkodér - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita07/Aktivita%207.2_zadani.docx)
 4. [Aktivita 7.2 - Rotační enkodér - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita07/Aktivita%207.2_zadani.pdf)
 
+### Pomůcka - rotační enkodér
+4. [Pomůcka - rotační enkodér](https://github.com/JiriNoska/tinylab/blob/21544b7c20dfe141218f3b84aecd45fd91368fcc/aktivita07/enkod%C3%A9r.pdf)
 
 ### Seznam programů pro TinyLab
 
