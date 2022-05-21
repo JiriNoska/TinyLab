@@ -1,5 +1,5 @@
 
-## Aktivita 10 - Komplexní úloha - Morseova abeceda
+## Aktivita 11 - Komplexní úloha - Morseova abeceda
 
 [Složka s materiály](https://github.com/JiriNoska/tinylab/tree/main/aktivita11/)
 
