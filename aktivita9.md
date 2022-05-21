@@ -14,7 +14,7 @@
 ### Jednotlivé materiály ke stažení
 
 1. [Aktivita 9.1 - 7segmentový displej - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.1_zadani.docx)
-3. [Aktivita 9.1 - 7segmentový displej - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.1_pracovni.pdf)
+3. [Aktivita 9.1 - 7segmentový displej - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.1_zadani.pdf)
 4. [Aktivita 9.2 - Výpis na 7segmentový displej - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.2_pracovni.docx)
 5. [Aktivita 9.2 - Výpis na 7segmentový displej - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.2_zadani.pdf)
 6. [Aktivita 9.3 - Kuchyňská minutka - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.3_zadani.docx)
