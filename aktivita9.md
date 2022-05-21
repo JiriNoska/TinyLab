@@ -26,7 +26,7 @@
 
 1. [Aktivita 9.1](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/aktivita_9.1.ino)
 2. [Aktivita 9.2](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/aktivita_9.2.ino)
-3. [aktivita 9.2](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/aktivita_9.2_poOprave.ino)
+3. [aktivita 9.2 - funkční program](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/aktivita_9.2_poOprave.ino)
 4. [Aktivita 9.3](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/aktivita_9.3.ino)
 5. [Aktivita 9.4](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/aktivita_9.4.ino)
 
