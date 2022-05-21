@@ -13,22 +13,22 @@
 
 ### Jednotlivé materiály ke stažení
 
-1. [Aktivita 9.1 - 7segmentový displej - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.1_zadani.docx)
-2. [Aktivita 9.1 - 7segmentový displej - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.1_pracovni.pdf)
-3. [Aktivita 9.2 - Výpis na 7segmentový displej - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.2_pracovni.docx)
-4. [Aktivita 9.2 - Výpis na 7segmentový displej - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.2_zadani.pdf)
-5. [Aktivita 9.3 - Kuchyňská minutka - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.3_zadani.docx)
-6. [Aktivita 9.3 - Kuchyňská minutka - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.3_zadani.pdf)
-7. [Aktivita 9.4 - Kuchyňská minutka - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.4_zadani.docx)
-8. [Aktivita 9.4 - Kuchyňská minutka - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.4_zadani.pdf)
+1. [Aktivita 9.1 - 7segmentový displej - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.1_zadani.docx)
+3. [Aktivita 9.1 - 7segmentový displej - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.1_pracovni.pdf)
+4. [Aktivita 9.2 - Výpis na 7segmentový displej - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.2_pracovni.docx)
+5. [Aktivita 9.2 - Výpis na 7segmentový displej - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.2_zadani.pdf)
+6. [Aktivita 9.3 - Kuchyňská minutka - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.3_zadani.docx)
+7. [Aktivita 9.3 - Kuchyňská minutka - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.3_zadani.pdf)
+8. [Aktivita 9.4 - Kuchyňská minutka - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.4_zadani.docx)
+9. [Aktivita 9.4 - Kuchyňská minutka - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/Aktivita%209.4_zadani.pdf)
 
 ### Seznam programů pro TinyLab
 
-1. [Aktivita 9.1](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/aktivita_9.1.ino)
-2. [Aktivita 9.2](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/aktivita_9.2.ino)
+1. [Aktivita 9.1](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/aktivita_9.1.ino)
+2. [Aktivita 9.2](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/aktivita_9.2.ino)
 3. [aktivita 9.2 - funkční program](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/aktivita_9.2_poOprave.ino)
-4. [Aktivita 9.3](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/aktivita_9.3.ino)
-5. [Aktivita 9.4](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/aktivita_9.4.ino)
+4. [Aktivita 9.3](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/aktivita_9.3.ino)
+5. [Aktivita 9.4](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/aktivita_9.4.ino)
 
 
 ### [Úvodní strana](https://jirinoska.github.io/tinylab/)
