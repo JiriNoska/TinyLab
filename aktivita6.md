@@ -13,11 +13,12 @@
 
 ### Jednotlivé materiály ke stažení
 
-1. [Aktivita 6.1 - Rozsvěcování LED diod v závislosti na osvětlení - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita06/Aktivita%206.1_zadani.docx)
-2. [Aktivita 6.1 - Rozsvěcování LED diod v závislosti na osvětlení - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita06/Aktivita%206.1_zadani.pdf)
-3. [Aktivita 6.2 - Výpis teploty ve stupních Celsia, Fahrenheita a Kelvina - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita06/Aktivita%206.2_zadani.docx)
-4. [Aktivita 6.2 - Výpis teploty ve stupních Celsia, Fahrenheita a Kelvina - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita06/Aktivita%206.2_zadani.pdf)
-
+1. [Aktivita 6.1 - Pracujeme s čísly - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita06/Aktivita%206.1_zadani.docx)
+2. [Aktivita 6.1 - Pracujeme s čísly - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita06/Aktivita%206.1_zadani.pdf)
+3. [Aktivita 6.2 - Rozsvěcování LED diod v závislosti na osvětlení - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita06/Aktivita%206.2_zadani.docx)
+4. [Aktivita 6.2 - Rozsvěcování LED diod v závislosti na osvětlení - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita06/Aktivita%206.2_zadani.pdf)
+5. [Aktivita 6.3 - Výpis teploty ve stupních Celsia, Fahrenheita a Kelvina - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita06/Aktivita%206.2_zadani.docx)
+6. [Aktivita 6.3 - Výpis teploty ve stupních Celsia, Fahrenheita a Kelvina - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita06/Aktivita%206.2_zadani.pdf)
 
 ### Seznam programů pro TinyLab
 
