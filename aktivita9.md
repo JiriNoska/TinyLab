@@ -1,16 +1,34 @@
-# Využití výukového kitu TinyLab v přípravě budoucích učitelů
-## Seznámení se s výukovým kitem TinyLab
 
-[Materiály](https://github.com/JiriNoska/TinyLab/tree/main/aktivita1/)
+## Aktivita 9 - LCD displej, funkce, cykly
+
+[Složka s materiály](https://github.com/JiriNoska/tinylab/tree/main/aktivita09/)
+
+[Stažení složky ve formátu *.zip](https://github.com/JiriNoska/tinylab/zipball/main/aktivita09/)
+
+### Metodika pro pedagogy
+
+
+1. [Hodina 9 - LCD displej - metodika (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Hodina%209_metodika.docx)
+2. [Hodina 9 - LCD displej -metodika (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Hodina%209_metodika.pdf)
 
 ### Jednotlivé materiály ke stažení
 
-1. [Úloha 1.1 - pracovní list (docx)](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/%C3%9Aloha%201.1%20-%20Pracovn%C3%AD%20list.docx)
-2. [Úloha 1.1 - pracovní list (pdf)](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/%C3%9Aloha%201.1%20-%20Pracovn%C3%AD%20list.pdf)
-3. [Komponenty výukového kitu TinyLab](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/Komponenty%20v%C3%BDukov%C3%A9ho%20kitu%20TinyLab.docx)
-4. [Základní deska výukového kitu TiynLab](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/z%C3%A1kladn%C3%AD%20deska%20TinyLab.png)
+1. [Aktivita 9.1 - 7segmentový displej - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.1_zadani.docx)
+2. [Aktivita 9.1 - 7segmentový displej - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.1_pracovni.pdf)
+3. [Aktivita 9.2 - Výpis na 7segmentový displej - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.2_pracovni.docx)
+4. [Aktivita 9.2 - Výpis na 7segmentový displej - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.2_zadani.pdf)
+5. [Aktivita 9.3 - Kuchyňská minutka - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.3_zadani.docx)
+6. [Aktivita 9.3 - Kuchyňská minutka - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.3_zadani.pdf)
+7. [Aktivita 9.4 - Kuchyňská minutka - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.4_zadani.docx)
+8. [Aktivita 9.4 - Kuchyňská minutka - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/Aktivita%209.4_zadani.pdf)
 
 ### Seznam programů pro TinyLab
 
-1. [Úloha 1.2](https://github.com/JiriNoska/tinylab/blob/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/aktivita_1.2.ino)
-2. [Úloha 1.3](https://github.com/JiriNoska/tinylab/blob/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/aktivita_1.3.ino)
+1. [Aktivita 9.1](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/aktivita_9.1.ino)
+2. [Aktivita 9.2](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/aktivita_9.2.ino)
+3. [aktivita 9.2](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita09/aktivita_9.2_poOprave.ino)
+4. [Aktivita 9.3](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/aktivita_9.3.ino)
+5. [Aktivita 9.4](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita08/aktivita_9.4.ino)
+
+
+### [Úvodní strana](https://jirinoska.github.io/tinylab/)
