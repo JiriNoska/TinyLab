@@ -6,6 +6,8 @@ Stažení celé složky s materiály ve formátu *.zip: [zde](https://github.com
 
 Podklady pro výuku se dělí na 13 aktivit, kdy každá z těchto aktivit je koncipována na jednu vyučovací hodinu. V rámci každé aktivity je několik úloh, kdy se žáci budou učit vytvářet programy ve výukovém kitu TinyLab.
 
+Tabulka činností [zde](https://github.com/JiriNoska/tinylab/blob/cb9f27861f1ad773dd7f5e32edbf212bf00af740/tabulka%20%C4%8Dinnost%C3%AD.xlsx)
+
 ### Struktura aktivit
 
 1. [Seznámení se s výukovám kitem TinyLab](https://jirinoska.github.io/tinylab/aktivita1)
