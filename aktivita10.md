@@ -1,16 +1,26 @@
-# Využití výukového kitu TinyLab v přípravě budoucích učitelů
-## Seznámení se s výukovým kitem TinyLab
 
-[Materiály](https://github.com/JiriNoska/TinyLab/tree/main/aktivita1/)
+## Aktivita 10 - Komplexní úloha - Předvodník z desítkové soustavy
+
+[Složka s materiály](https://github.com/JiriNoska/tinylab/tree/main/aktivita10/)
+
+[Stažení složky ve formátu *.zip](https://github.com/JiriNoska/tinylab/zipball/main/aktivita10/)
+
+### Metodika pro pedagogy
+
+
+1. [Hodina 10 - Předvodník z desítkové soustavy - metodika (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita10/Hodina%2010_metodika.docx)
+2. [Hodina 10 - Předvodník z desítkové soustavy -metodika (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita10/Hodina%2010_metodika.pdf)
 
 ### Jednotlivé materiály ke stažení
 
-1. [Úloha 1.1 - pracovní list (docx)](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/%C3%9Aloha%201.1%20-%20Pracovn%C3%AD%20list.docx)
-2. [Úloha 1.1 - pracovní list (pdf)](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/%C3%9Aloha%201.1%20-%20Pracovn%C3%AD%20list.pdf)
-3. [Komponenty výukového kitu TinyLab](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/Komponenty%20v%C3%BDukov%C3%A9ho%20kitu%20TinyLab.docx)
-4. [Základní deska výukového kitu TiynLab](https://github.com/JiriNoska/tinylab/raw/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/z%C3%A1kladn%C3%AD%20deska%20TinyLab.png)
+1. [Aktivita 10.1 - Předvodník z desítkové soustavy - zadání (docx)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita10/Aktivita%2010.1_zadani.docx)
+3. [Aktivita 10.1 - Předvodník z desítkové soustavy - zadání (pdf)](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita10/Aktivita%2010.1_pracovni.pdf)
+
 
 ### Seznam programů pro TinyLab
 
-1. [Úloha 1.2](https://github.com/JiriNoska/tinylab/blob/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/aktivita_1.2.ino)
-2. [Úloha 1.3](https://github.com/JiriNoska/tinylab/blob/e5824e128b611a101eafbd87eebf058a7bf5a42c/aktivita1/aktivita_1.3.ino)
+1. [Aktivita 10.1](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita10/aktivita_10.1.ino)
+
+
+
+### [Úvodní strana](https://jirinoska.github.io/tinylab/)
