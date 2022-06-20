@@ -6,7 +6,7 @@ Stažení celé složky s materiály ve formátu *.zip: [zde](https://github.com
 
 Podklady pro výuku se dělí na 11 aktivit, kdy devět z těchto aktivit je koncipováno na jednu vyučovací hodinu. Poslední dvě aktivity jsou vzhledem k rozsahu plánovány na dvě vyučovací hodiny. 
 
-Tabulka činností [zde](https://github.com/JiriNoska/tinylab/blob/cb9f27861f1ad773dd7f5e32edbf212bf00af740/tabulka%20%C4%8Dinnost%C3%AD.xlsx)
+Tabulka aktivit [zde](https://github.com/JiriNoska/tinylab/blob/cb9f27861f1ad773dd7f5e32edbf212bf00af740/tabulka%20%C4%8Dinnost%C3%AD.xlsx)
 
 ### Struktura aktivit
 
