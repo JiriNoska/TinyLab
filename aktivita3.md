@@ -27,7 +27,7 @@
 ### Seznam programů pro TinyLab
 
 1. [Aktivita 3.2](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita03/aktivita_3.2.ino)
-2. [Aktivita 3.3](https://github.com/JiriNoska/tinylab/blob14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita03/aktivita_3.3.ino)
+2. [Aktivita 3.3](https://github.com/JiriNoska/tinylab/blob/14eae6e42755c5782aaba95cb6dc987a3796073e/aktivita03/aktivita_3.3.ino)
 
 
 ### [Úvodní strana](https://jirinoska.github.io/tinylab/)
